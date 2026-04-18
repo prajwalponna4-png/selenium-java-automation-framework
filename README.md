@@ -1,4 +1,4 @@
-# Selenium Automation Framework
+# Selenium Automation Framework.
 
 This project demonstrates a Hybrid Test Automation Framework using Selenium WebDriver with Java.
 
